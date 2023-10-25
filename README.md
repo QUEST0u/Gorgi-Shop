@@ -1,0 +1,2 @@
+# Gorgi-Shop
+Pugb mobil
